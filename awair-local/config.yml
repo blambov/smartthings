@@ -1,0 +1,5 @@
+name: 'AWAIR local API'
+packageKey: 'AWARE-local'
+permissions:
+  lan: {}
+  discovery: {}
